@@ -3,6 +3,11 @@
 ## Reference
 - [samples](https://github.com/spring-cloud-samples)
 
+### The project contains three parts
+  - Spring Cloud Config
+  - Spring Cloud Eureka
+  - playSpring
+
 ### Spring Cloud
   是微服务工具包，为开发者提供了在分布式系统的配置管理、服务发现、断路器、智能路由、微代理、控制总线等开发工具包。
 - Eureka:　服务注册发现框架
