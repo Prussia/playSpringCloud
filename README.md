@@ -3,6 +3,10 @@
 ## Reference
 - [samples](https://github.com/spring-cloud-samples)
 - [Spring Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/)
+- [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/)
+- [Circuit Breaker](https://spring.io/guides/gs/circuit-breaker/)
+- [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/) 
+- [Client Side Load Balancing with Ribbon and Spring Cloud](https://spring.io/guides/gs/client-side-load-balancing/)
 
 ### The project contains three parts
   - Spring Cloud Config
