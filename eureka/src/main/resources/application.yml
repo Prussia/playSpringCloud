@@ -1,0 +1,16 @@
+server:
+  port: 8761
+
+eureka:
+  client:
+    healthcheck:
+      enabled: true
+    registerWithEureka: false
+    fetchRegistry: false
+    
+  server:
+    waitTimeInMsWhenSyncEmpty: 0
+  instance:
+    statusPageUrl: https://${eureka.hostname}/info
+    healthCheckUrl: https://${eureka.hostname}/health
+    homePageUrl: https://${eureka.hostname}/
