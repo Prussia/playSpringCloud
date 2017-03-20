@@ -15,7 +15,7 @@
     Service Discovery: an embedded Eureka server can be created with declarative Java configuration
   - [playSpring](https://github.com/Prussia/playSpring)
   
-  ![alt tag](./component-communication.png)
+  ![alt tag](./pic/component-communication.png)
 
 ### Spring Cloud
   是微服务工具包，为开发者提供了在分布式系统的配置管理、服务发现、断路器、智能路由、微代理、控制总线等开发工具包。
@@ -32,6 +32,7 @@
 - Spring Cloud Config：配置管理开发工具包，可以让你把配置放到远程服务器，目前支持本地存储、Git以及Subversion。
 
   ![alt tag](http://images.techhive.com/images/article/2015/05/config-server-fig1-100586597-large.idge.png)
+  ![alt tag](./pic/spring_config_server.png)
 
 - Spring Cloud Bus：事件、消息总线，用于在集群（例如，配置变化事件）中传播状态变化，可与Spring Cloud Config联合实现热部署。
   
@@ -40,7 +41,7 @@
 - Spring Cloud Netflix：针对多种Netflix组件提供的开发工具包，其中包括Eureka、Hystrix、Zuul、Archaius等。
   - Netflix Eureka：云端负载均衡，一个基于 REST 的服务，用于定位服务，以实现云端的负载均衡和中间层服务器的故障转移。
 
-  ![alt tag](https://cdn.thenewstack.io/media/2015/09/loadbalancers.003.png)
+  ![alt tag](./pic/cloud_bus.png)
 
   - Netflix Hystrix：容错管理工具，旨在通过控制服务和第三方库的节点,从而对延迟和故障提供更强大的容错能力。
   - Netflix Zuul：边缘服务工具，是提供动态路由，监控，弹性，安全等的边缘服务。
