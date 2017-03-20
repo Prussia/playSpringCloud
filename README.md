@@ -14,6 +14,8 @@
     Service Discovery: Eureka instances can be registered and clients can discover the instances using Spring-managed beans
     Service Discovery: an embedded Eureka server can be created with declarative Java configuration
   - [playSpring](https://github.com/Prussia/playSpring)
+  
+  ![alt tag](./component-communication.png)
 
 ### Spring Cloud
   是微服务工具包，为开发者提供了在分布式系统的配置管理、服务发现、断路器、智能路由、微代理、控制总线等开发工具包。
