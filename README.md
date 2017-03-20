@@ -44,7 +44,7 @@
 - Blitz4j: 日志组件
 
 ### Spring Cloud子项目
-- Spring Cloud Config：配置管理开发工具包，可以让你把配置放到远程服务器，目前支持本地存储、Git以及Subversion。
+- [Spring Cloud Config：配置管理开发工具包，可以让你把配置放到远程服务器，目前支持本地存储、Git以及Subversion。](https://docs.pivotal.io/spring-cloud-services/1-3/common/config-server/)
 
   ![alt tag](./pic/spring_config_server.png)
 
@@ -53,7 +53,7 @@
   ![alt tag](./pic/cloud_bus.png)
   
 - Spring Cloud Netflix：针对多种Netflix组件提供的开发工具包，其中包括Eureka、Hystrix、Zuul、Archaius等。
-  - Netflix Eureka：云端负载均衡，一个基于 REST 的服务，用于定位服务，以实现云端的负载均衡和中间层服务器的故障转移。
+  - [Netflix Eureka：云端负载均衡，一个基于 REST 的服务，用于定位服务，以实现云端的负载均衡和中间层服务器的故障转移。](https://docs.pivotal.io/spring-cloud-services/1-3/common/service-registry/)
   
   ![alt tag](./pic/service-registry-overview.png)
   ![alt tag](./pic/loadbalancers.003.png)
