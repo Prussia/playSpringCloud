@@ -54,6 +54,7 @@
   
 - Spring Cloud Netflix：针对多种Netflix组件提供的开发工具包，其中包括Eureka、Hystrix、Zuul、Archaius等。
   - Netflix Eureka：云端负载均衡，一个基于 REST 的服务，用于定位服务，以实现云端的负载均衡和中间层服务器的故障转移。
+  
   ![alt tag](./pic/service-registry-overview.png)
   ![alt tag](./pic/loadbalancers.003.png)
 
