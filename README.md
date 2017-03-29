@@ -2,6 +2,7 @@
 
 ## Reference
 - [samples](https://github.com/spring-cloud-samples)
+- [authServer](https://github.com/spring-cloud-samples/authserver)
 - [Spring Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/)
 - [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/)
 - [Circuit Breaker](https://spring.io/guides/gs/circuit-breaker/)
