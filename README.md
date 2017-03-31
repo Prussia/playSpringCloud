@@ -2,6 +2,7 @@
 
 ## Reference
 - [samples](https://github.com/spring-cloud-samples)
+- [User Account and Authentication](https://github.com/cloudfoundry/uaa)
 - [authServer](https://github.com/spring-cloud-samples/authserver)
 - [Spring Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/)
 - [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/)
