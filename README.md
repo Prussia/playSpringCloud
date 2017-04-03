@@ -5,6 +5,7 @@
 - [spring cloud samples](https://github.com/spring-cloud-samples)
   - eureka
     - [Service Discovery](https://github.com/spring-cloud-samples/eureka)
+    - ![alt tag](./pic/service-registry-overview.png)
   - config 
     - [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/)
   - uua 
@@ -16,14 +17,7 @@
     - [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/) 
   - Ribbon 
     - [Client Side Load Balancing with Ribbon and Spring Cloud](https://spring.io/guides/gs/client-side-load-balancing/)
-
-### The project contains three parts
-  - Spring Cloud Config
-  - Spring Cloud Eureka
-    Service Discovery: Eureka instances can be registered and clients can discover the instances using Spring-managed beans
-    Service Discovery: an embedded Eureka server can be created with declarative Java configuration
-  - [playSpring](https://github.com/Prussia/playSpring)
-  
+    - ![alt tag](./pic/loadbalancers.003.png)
 ### Overview
     CC: The Cloud Foundry Cloud Controller.
     CC DB: The Cloud Controller database.
@@ -44,12 +38,12 @@
 ### Spring Cloud 
   是微服务工具包，为开发者提供了在分布式系统的配置管理、服务发现、断路器、智能路由、微代理、控制总线等开发工具包。
 - Eureka:　服务注册发现框架 Service Discovery
-  ![alt tag](./pic/service-registry-overview.png)
+  
 - Zuul:　服务网关 Intelligent Routing
 - Karyon:　服务端框架
 - Ribbon:　客户端框架  Client Side Load Balancing
 
-![alt tag](./pic/loadbalancers.003.png)
+
 
 - Hystrix: 服务容错组件
 - Archaius: 服务配置组件
