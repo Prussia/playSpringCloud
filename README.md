@@ -8,6 +8,7 @@
     - ![alt tag](./pic/service-registry-overview.png)
   - config 
     - [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/)
+    - ![alt tag](./pic/spring_config_server.png)
   - uua 
     - [User Account and Authentication](https://github.com/cloudfoundry/uaa)
     - [Component: User Account and Authentication (UAA) Server](http://docs.cloudfoundry.org/concepts/architecture/uaa.html)
