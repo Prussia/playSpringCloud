@@ -3,14 +3,15 @@
 ## Reference
 - [Spring Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/)
 - [spring cloud samples](https://github.com/spring-cloud-samples)
-  - auth 
-    - [authServer](https://github.com/spring-cloud-samples/authserver)
+  - eureka
+    - [Service Discovery](https://github.com/spring-cloud-samples/eureka)
   - config 
     - [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/)
   - uua 
     - [User Account and Authentication](https://github.com/cloudfoundry/uaa)
     - [Component: User Account and Authentication (UAA) Server](http://docs.cloudfoundry.org/concepts/architecture/uaa.html)
-  - [Circuit Breaker](https://spring.io/guides/gs/circuit-breaker/)
+  - Hystrix
+    - [Circuit Breaker](https://spring.io/guides/gs/circuit-breaker/)
   - Zuul 
     - [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/) 
   - Ribbon 
