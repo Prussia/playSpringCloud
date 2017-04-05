@@ -16,6 +16,7 @@
     - [Circuit Breaker](https://spring.io/guides/gs/circuit-breaker/)
   - Zuul 
     - [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/) 
+    - Embedded Reverse Proxy
   - Ribbon 
     - [Client Side Load Balancing with Ribbon and Spring Cloud](https://spring.io/guides/gs/client-side-load-balancing/)
     - ![alt tag](./pic/loadbalancers.003.png)
