@@ -17,6 +17,7 @@
   - Zuul 
     - [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/) 
     - Embedded Reverse Proxy
+    - http://techblog.netflix.com/2013/06/announcing-zuul-edge-service-in-cloud.html
   - Ribbon 
     - [Client Side Load Balancing with Ribbon and Spring Cloud](https://spring.io/guides/gs/client-side-load-balancing/)
     - ![alt tag](./pic/loadbalancers.003.png)
