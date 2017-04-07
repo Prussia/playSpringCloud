@@ -2,6 +2,7 @@
 
 ## Reference
 - [Spring Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/)
+- [Doing microservices with JHipster](https://jhipster.github.io/microservices-architecture/)
 - [spring cloud samples](https://github.com/spring-cloud-samples)
   - eureka
     - [Service Discovery](https://github.com/spring-cloud-samples/eureka)
