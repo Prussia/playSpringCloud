@@ -18,7 +18,7 @@
     - ![alt tag](./pic/jhipster_uaa.png)
   - Hystrix
     - [Circuit Breaker](https://spring.io/guides/gs/circuit-breaker/)
-  - Zuul 
+  - [Zuul](https://github.com/Netflix/zuul)
     - [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/) 
     - Embedded Reverse Proxy
     - http://techblog.netflix.com/2013/06/announcing-zuul-edge-service-in-cloud.html
