@@ -22,6 +22,7 @@
     - [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/) 
     - Embedded Reverse Proxy
     - http://techblog.netflix.com/2013/06/announcing-zuul-edge-service-in-cloud.html
+    - [Using Netflix Zuul to Proxy your Microservices](https://blog.heroku.com/using_netflix_zuul_to_proxy_your_microservices)
   - Ribbon 
     - [Client Side Load Balancing with Ribbon and Spring Cloud](https://spring.io/guides/gs/client-side-load-balancing/)
     - ![alt tag](./pic/loadbalancers.003.png)
