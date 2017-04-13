@@ -11,7 +11,4 @@
   - [Hystrix](hystrix.md)
   - [Zuul](zuul.md)
   - [Ribbon](ribbon.md)
-     
-
-
-
+  - [Sleuth](sleuth.md)  
