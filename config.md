@@ -1,4 +1,4 @@
-# config
+# Config
 
 - config 
     - [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/)

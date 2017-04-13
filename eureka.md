@@ -1,4 +1,4 @@
-# eureka
+# Eureka
 
 - eureka
     - [Service Discovery](https://github.com/spring-cloud-samples/eureka)
