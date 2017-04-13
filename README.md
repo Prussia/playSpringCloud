@@ -21,8 +21,7 @@
   - [Zuul](https://github.com/Netflix/zuul)
     - [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/) 
     - [How it Works](https://github.com/Netflix/zuul/wiki/How-it-Works)
-    - http://techblog.netflix.com/2013/06/announcing-zuul-edge-service-in-cloud.html
-    - [Using Netflix Zuul to Proxy your Microservices](https://blog.heroku.com/using_netflix_zuul_to_proxy_your_microservices)
+    - ![alt tag](./pic/zuul_principal.png)
     - ![alt tag](./pic/zuul_in_netflix.png)
   - Ribbon 
     - [Client Side Load Balancing with Ribbon and Spring Cloud](https://spring.io/guides/gs/client-side-load-balancing/)
