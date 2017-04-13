@@ -1,4 +1,4 @@
-#[Sleuth](https://github.com/spring-cloud/spring-cloud-sleuth#terminology)
+# [Sleuth](https://github.com/spring-cloud/spring-cloud-sleuth#terminology)
 
 - span id and trace id
 	![alt tag](./pic/trace-id.png)
@@ -6,4 +6,5 @@
 	- [architecture](http://zipkin.io/pages/architecture.html)
 		There are 4 components that make up Zipkin:  collector, storage, search, web UI
 	- Example flow	
+		![alt tag](./pic/zipkin.png)
 	
