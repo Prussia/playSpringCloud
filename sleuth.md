@@ -9,4 +9,5 @@
 		![alt tag](./pic/zipkin-architecture-1.png)
 	- Example flow	
 		![alt tag](./pic/zipkin.png)
-	
+	- WebUI
+		![alt tag](./pic/zipkin-web-screenshot.png)
