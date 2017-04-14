@@ -6,6 +6,7 @@
   - [Eureka](eureka.md)
   - [Config](config.md)
   - [UAA](uaa.md)
+  - [Security](security.md)
   - [Hystrix](hystrix.md)
   - [Zuul](zuul.md)
   - [Ribbon](ribbon.md)
